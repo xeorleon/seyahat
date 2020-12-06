@@ -14,3 +14,9 @@ yarn-error.log*
 *.sln
 
 *credentials.js
+*.firebase
+*.firebase.json
+*.firebasesrc
+functions/
+firebase/
+build/

@@ -17,6 +17,7 @@ yarn-error.log*
 *.firebase
 *.firebase.json
 *.firebasesrc
-functions/
-firebase/
-build/
+/functions/
+/.firebase/
+build/*
+
